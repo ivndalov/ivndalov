@@ -22,4 +22,4 @@ Passionate about **Linux Systems**, **Server Administration**, and **Open Source
 ---
 
 ### 📫 Contact
-* [LinkedIn]((https://www.linkedin.com/in/3a90773aa/))
+* [LinkedIn](https://www.linkedin.com/in/3a90773aa/)
