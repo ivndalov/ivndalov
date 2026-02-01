@@ -22,4 +22,4 @@ Passionate about **Linux Systems**, **Server Administration**, and **Open Source
 ---
 
 ### 📫 Contact
-* [LinkedIn]()
+* [LinkedIn](www.linkedin.com/in/ілля-назарівський-3a90773aa)
